@@ -1,0 +1,19 @@
+[
+  ".gitignore",
+  "CAPABILITIES.md",
+  "LICENSE",
+  "PUBLIC_FILES.json",
+  "README.md",
+  "examples/usd_macro_brief.py",
+  "pyproject.toml",
+  "src/lfx_fxmacrodata/__init__.py",
+  "src/lfx_fxmacrodata/client.py",
+  "src/lfx_fxmacrodata/component.py",
+  "src/lfx_fxmacrodata/components/__init__.py",
+  "src/lfx_fxmacrodata/components/fxmacrodata/__init__.py",
+  "src/lfx_fxmacrodata/components/fxmacrodata/query.py",
+  "src/lfx_fxmacrodata/components/fxmacrodata/tools.py",
+  "src/lfx_fxmacrodata/extension.json",
+  "src/lfx_fxmacrodata/py.typed",
+  "tests/test_bundle.py"
+]
