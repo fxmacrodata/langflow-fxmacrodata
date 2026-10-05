@@ -2,9 +2,9 @@
 
 Bring official macroeconomic observations, release calendars and market research into Langflow DataFrames, visual workflows and agents.
 
-[Subscribe to FXMacroData](https://fxmacrodata.com/subscribe?utm_source=github&utm_medium=referral&utm_campaign=open_source_integrations&utm_content=langflow_subscribe) for non-USD data, full available history, FX, commodities and positioning. Use the public USD workflow to evaluate the integration before connecting your subscription.
+[Subscribe to FXMacroData](https://fxmacrodata.com/subscribe?utm_source=github&utm_medium=referral&utm_campaign=langflow-fxmacrodata&utm_content=subscribe) for non-USD data, full available history, FX, commodities and positioning. Use the public USD workflow to evaluate the integration before connecting your subscription.
 
-[Explore FXMacroData](https://fxmacrodata.com/?utm_source=github&utm_medium=referral&utm_campaign=open_source_integrations&utm_content=langflow_readme) · [API documentation](https://fxmacrodata.com/documentation/reference?utm_source=github&utm_medium=referral&utm_campaign=open_source_integrations&utm_content=langflow_docs)
+[Explore FXMacroData](https://fxmacrodata.com/?utm_source=github&utm_medium=referral&utm_campaign=langflow-fxmacrodata&utm_content=readme) · [API documentation](https://fxmacrodata.com/documentation/reference?utm_source=github&utm_medium=referral&utm_campaign=langflow-fxmacrodata&utm_content=docs)
 
 The public USD catalogue, recent macro history and release calendar support evaluation without an API key. The history example requests the most recent 90 days. Data availability varies by series; your subscription and its terms govern protected access.
 
