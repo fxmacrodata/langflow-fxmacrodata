@@ -13,8 +13,8 @@ license-files = ["LICENSE"]
 dependencies = ["fxmacrodata-public-client==0.1.0", "lfx>=1.12.1,<2", "langchain-core>=1.2.28,<2"]
 
 [project.urls]
-Homepage = "https://fxmacrodata.com"
-Documentation = "https://fxmacrodata.com/documentation/reference"
+Homepage = "https://fxmacrodata.com/?utm_source=pypi&utm_medium=referral&utm_campaign=langflow-fxmacrodata&utm_content=homepage"
+Documentation = "https://fxmacrodata.com/documentation/reference?utm_source=pypi&utm_medium=referral&utm_campaign=langflow-fxmacrodata&utm_content=docs"
 
 [project.optional-dependencies]
 test = ["pytest>=8", "pytest-xdist>=3"]

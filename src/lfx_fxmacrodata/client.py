@@ -6,11 +6,11 @@ from fxmacrodata_public import FXMacroDataClient, FXMacroDataError
 
 SITE_URL = (
     "https://fxmacrodata.com/?utm_source=langflow&utm_medium=integration"
-    "&utm_campaign=open_source_integrations&utm_content=app"
+    "&utm_campaign=langflow-fxmacrodata&utm_content=app"
 )
 DOCUMENTATION = (
-    "https://fxmacrodata.com/documentation/reference?utm_source=github&utm_medium=referral"
-    "&utm_campaign=open_source_integrations&utm_content=langflow_docs"
+    "https://fxmacrodata.com/documentation/reference?utm_source=langflow&utm_medium=integration"
+    "&utm_campaign=langflow-fxmacrodata&utm_content=docs"
 )
 
 
@@ -25,7 +25,7 @@ def query(operation: str, arguments: dict[str, Any], api_key: Any = None, timeou
             "operation": operation,
             "data": None,
             "records": [],
-            "source_url": "https://fxmacrodata.com/documentation/reference",
+            "source_url": DOCUMENTATION,
             "provider_url": SITE_URL,
             "error": str(error)
             if isinstance(error, FXMacroDataError)
